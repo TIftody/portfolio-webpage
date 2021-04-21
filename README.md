@@ -1,9 +1,3 @@
-Portfolio Webpage{
-		
-		return this.options.title || this.options.name;
-	}
+Portfolio Webpage
 
-## Supporting Scrimba
-
-
-Happy Coding!
+Portfolio webpage using videos from Scimba
